@@ -7,6 +7,7 @@ soma(5,9)
 
 # 14
 
+-
 
 def subtrair(a,b):
     sub = a - b
@@ -15,6 +16,7 @@ subtrair(10,8)
 
 # 2
 
+-
 
 def nomeIdade(nome, idade):
     resp = (f"O nome é {nome} e a idade é {idade} anos.")
@@ -23,6 +25,7 @@ nomeIdade("Pedro", 70)
 
 #{'O nome é Pedro e a idade é 70 anos.'}
 
+-
 
 def subSoma(x,y):
     sub = subtrair(x,y)
