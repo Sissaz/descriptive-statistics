@@ -19,3 +19,4 @@ log10(5)
 import numpy as np
 np.array([23, 4, 8])
 
+
