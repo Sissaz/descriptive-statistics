@@ -18,3 +18,14 @@ plt.bar(x, y, color = 'mediumseagreen')
 plt.xlabel('Variável Eixo x', size = 15)
 plt.ylabel('Categorias', size = 15)
 plt.title('Gráfico de Barras', size = 15)
+
+-
+
+# Seaborn
+
+import seaborn as sns
+
+y = [2, 5, 2, 7, 5, 1]
+x = ['N1', 'N2', 'N3', 'N4', 'N5', 'N6']
+
+sns.barplot(x,y)
