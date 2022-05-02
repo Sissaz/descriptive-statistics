@@ -18,3 +18,4 @@ plt.barh(x2, y, color = 'salmon')
 plt.xlabel('Variável Eixo x', size = 15)
 plt.ylabel('Categorias', size = 15)
 plt.title('Gráfico de Barras', size = 15)
+
