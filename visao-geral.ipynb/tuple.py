@@ -13,8 +13,12 @@ tu = tuple(lista)
 tu
 # (2, 7, 4, 1, 6)
 
+-
+
 tu.count(1)
 # 1
+
+-
 
 tu.index(4)
 # 2
