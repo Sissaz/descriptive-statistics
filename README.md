@@ -51,3 +51,7 @@ Below are some of the main concepts of Descriptive Statistics using the Jupyter 
 ## 🚀 | IRL Exercises
 - [Titanic](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/descriptive-statistics-titanic.ipynb)
 - [Petrobras Shares](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/petrobras-shares.ipynb)
+
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
+</div>
