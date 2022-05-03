@@ -35,3 +35,19 @@ Below are some of the main concepts of Descriptive Statistics using the Jupyter 
 - [Scatter Plot](https://github.com/Sissaz/descriptive-statistics/blob/main/plots.ipynb/scatter-plot.ipynb)
 - [Colors for Matplotlib](https://github.com/Sissaz/descriptive-statistics/blob/main/plots.ipynb/colors.ipynb)
 
+## 📉 | Statistical Dispersion
+- [Range](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/range.ipynb)
+- [Standard Deviation](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/standard-deviation.ipynb)
+- [Interquartile Range](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/interquartile-range.ipynb)
+- [Coefficient of Variation](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/coefficient-of-variation.ipynb)
+- [Monte Carlo Method](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/monte-carlo-method.ipynb)
+
+## ✏️ | Skewness
+- [Introduction](https://github.com/Sissaz/descriptive-statistics/blob/main/skewness.ipynb/README.md)
+- [Skewness](https://github.com/Sissaz/descriptive-statistics/blob/main/skewness.ipynb/skewness.ipynb)
+- [Kurtosis](https://github.com/Sissaz/descriptive-statistics/blob/main/skewness.ipynb/kurtosis.ipynb)
+- [Boxplot](https://github.com/Sissaz/descriptive-statistics/blob/main/skewness.ipynb/boxplot.ipynb)
+
+## 🚀 | IRL Exercises
+- [Titanic](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/descriptive-statistics-titanic.ipynb)
+- [Petrobras Shares](https://github.com/Sissaz/descriptive-statistics/blob/main/statistical-dispersion.ipynb/petrobras-shares.ipynb)
