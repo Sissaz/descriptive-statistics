@@ -34,7 +34,8 @@ A method for graphically demonstrating the locality, spread and skewness groups 
 <br> 
 <a href="https://github.com/Sissaz" > <img width="55%"  src="https://github.com/Sissaz/descriptive-statistics/blob/main/skewness.ipynb/media/boxplot.png?raw=true" /></a>
 </div>
-
+<br />
+<br> 
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
 </div>
