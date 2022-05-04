@@ -5,7 +5,6 @@
 In short, Descriptive Statistics help describe and understand the features of a specific data set by giving short summaries about the sample and measures of the data.
 Below are some of the main concepts of Descriptive Statistics using the Jupyter Notebook.
 <br />
-<br>
 
 ## 👨🏻‍🎓 | Python Mini Guide in Jupyter Notebook/Mini Guia para Python usando Jupyter Notebook
 - [Import](https://github.com/Sissaz/descriptive-statistics/blob/main/python-guide.ipynb/import.ipynb)
