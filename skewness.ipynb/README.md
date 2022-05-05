@@ -2,7 +2,7 @@
 </h1>
 </p>
 Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive, zero, negative, or undefined.
-Below are some of the main concepts of Descriptive Statistics using the Jupyter Notebook.
+Below are some of the main concepts of Skewness using the Jupyter Notebook.
 <br />
 <br>
 
